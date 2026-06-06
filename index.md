@@ -20,7 +20,7 @@ It is the only color painting I have made that has a dragon in it.
 ## A Dragon Flying
 
 <video width="100%" controls>
-    <source src="res/dragon_flying.mp4" type="video/mp4"
+    <source src="res/dragon_flying.mp4" type="video/mp4" />
     video.
 </video>
 
