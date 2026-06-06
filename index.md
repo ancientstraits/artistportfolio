@@ -19,7 +19,10 @@ It is the only color painting I have made that has a dragon in it.
 
 ## A Dragon Flying
 
-![A Dragon Flying](res/dragon_flying.mp4)
+<video width="100%" controls>
+    <source src="res/dragon_flying.mp4" type="video/mp4"
+    video.
+</video>
 
 I think I finished this on October 16, 2024.
 I was very proud of it.
