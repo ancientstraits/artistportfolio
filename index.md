@@ -38,7 +38,21 @@ I was very proud of it.
 ![procreate sketch 7](res/Untitled_Artwork 7.png)
 ![procreate sketch 8](res/Untitled_Artwork 8.png)
 
-## I love wings of fire
+
+# Newer Sketches (Made in 2026, very recent!)
+
+![I like the cliff image](res/cliff-7-21-2026.png)
+![newer](res/img2026-0.png)
+![newer](res/img2026-1.png)
+![newer](res/img2026-2.png)
+![newer](res/img2026-3.png)
+
+# Concept Art for a Game
+
+![wallpaper](res/wallpaper.png)
+![triangle man concept art](res/triangleman.png)
+
+<!-- ## I love wings of fire
 
 I got into this fandom around 2020. I haven't read a book since I finished Book 13 in 2020,
 but I have ALWAYS wanted to animate dragons since I read this.
@@ -46,4 +60,4 @@ My lifetime goal has been to animate the prologue of Book 1.
 
 But, for some reason, I have been ashamed of drawing dragons, especially in public.
 It feels like when I latch onto and obsess over something, I never want anyone to know I like it.
-That's probably why I've drawn way less dragons than I want to.
+That's probably why I've drawn way less dragons than I want to. -->
